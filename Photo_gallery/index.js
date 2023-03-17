@@ -28,6 +28,36 @@ let data_arr=[{
     name:"Photo 5",
     caption:"lorem ipsum dolor sit amet, consectet",
     img:"https://source.unsplash.com/1600x900/?nature,clouds"
+},
+{
+    id:6,
+    name:"Photo 6",
+    caption:"lorem ipsum dolor sit amet, consectet",
+    img:"https://source.unsplash.com/1600x900/?nature,water"
+},
+{
+    id:7,
+    name:"Photo 7",
+    caption:"lorem ipsum dolor sit amet, consectet",
+    img:"https://source.unsplash.com/1600x900/?nature,trees"
+},
+{
+    id:8,
+    name:"Photo 8",
+    caption:"lorem ipsum dolor sit amet, consectet",
+    img:"https://source.unsplash.com/1600x900/?nature,flowers"
+},
+{
+    id:9,
+    name:"Photo 9",
+    caption:"lorem ipsum dolor sit amet, consectet",
+    img:"https://source.unsplash.com/1600x900/?nature,animals"
+},
+{
+    id:10,
+    name:"Photo 10",
+    caption:"lorem ipsum dolor sit amet, consectet",
+    img:"https://source.unsplash.com/1600x900/?nature,clouds"
 }
 ];
 
