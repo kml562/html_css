@@ -12,10 +12,12 @@ close.addEventListener("click",()=>{
 })
 const myFun=()=>{
     container.classList.add('show-nav')
+    console.log("click")
 }
 
 const myFun2=()=>{
     container.classList.remove('show-nav')
+    console.log("click2")
 }
 
 // done
